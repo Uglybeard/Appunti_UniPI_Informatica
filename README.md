@@ -6,7 +6,7 @@ Raccolta di appunti relativi al corso di laurea triennale in Informatica (classe
 
 Questi appunti sono una rielaborazione personale del materiale fornito durante le lezioni. **Non coprono in modo esaustivo l’intero programma ufficiale e potrebbero contenere imprecisioni o omissioni**.
 
-> **Nota importante**: L’obiettivo di questi appunti non è quello di ottenere il massimo dei voti. Se punti a un 30 o comunque a una preparazione approfondita, è **fortemente consigliato integrarli** con ulteriori fonti (libri, appunti di altri studenti, materiale del corso).
+> **Nota importante**: Questi appunti non hanno lo scopo di fornire una preparazione completa in ogni dettaglio. Per una preparazione più approfondita o per conseguire il massimo dei voti, si consiglia di **integrare il materiale con ulteriori fonti** (libri, appunti di altri studenti, materiale del corso).
 
 
 ## 📘 Corsi Inclusi
